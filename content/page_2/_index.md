@@ -7,7 +7,9 @@ layout = "residential_2"
     <p class="c7 c5"><span class="c3"></span></p>
 </div>
 <p class="c8">
-    <span class="c0">Cash Raven</span
+    <span class="c0">
+Cash Raven
+    </span
     ><span class="c0 c6">&nbsp;Website Terms of Use</span>
 </p>
 <p class="c2 c5"><span class="c6 c0"></span></p>
