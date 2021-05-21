@@ -1,6 +1,6 @@
 +++
-title = "Home"
-layout = "typography"
+title = "Application End User License Agreement"
+layout = "residential_1"
 +++
 
 ### **Application End User License Agreement**{class="text-center" id=""}

@@ -1,6 +1,6 @@
 +++
-layout = "residential_1"
-title = "page_1"
+title = "Cash Raven Privacy Policy"
+layout = "residential_2"
 +++
 
 ### **Cash Raven Privacy Policy**{class="text-center" id=""}

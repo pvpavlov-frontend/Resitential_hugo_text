@@ -1,6 +1,6 @@
 +++
-title = "2"
-layout = "residential_2"
+title = "Cash Raven Website Terms of Use"
+layout = "residential_3"
 +++
 
 #### **Cash Raven Website Terms of Use**{class="text-center" id=""}

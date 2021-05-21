@@ -1,6 +1,6 @@
 +++
-title = "3"
-layout = "residential_3"
+title = "Privacy Notice for California Resident"
+layout = "residential_0"
 +++
 
 #### **Privacy Notice for California Residents**{class="text-center" id=""}
