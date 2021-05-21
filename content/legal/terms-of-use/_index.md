@@ -3,11 +3,11 @@ title = "2"
 layout = "residential_2"
 +++
 
-#### Cash Raven Website Terms of Use
+#### **Cash Raven Website Terms of Use**{class="text-center" id=""}
 
 ##### Introduction
 
-Welcome to the **https://cashraven.io/** website (the “Site”), which is owned and operated by Cash Raven, LLC (“Cash Raven” or “we” or “us”). By visiting or otherwise using any area of the Site, or downloading, installing, or using any Cash Raven mobile or desktop application (“Application”) with an authorized link to these Terms and Conditions of Use (the “Terms”), accessing or using any content, information, services, features or resources available or enabled via the Site or Application, you unconditionally agree to follow and be bound by these Terms. All information we collect on this Site and through the Application is subject to our Privacy Policy. By using the Site, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy. If you do not agree with the Terms or the Privacy Policy, you must not access or use the Site. Please read the Terms carefully before you start to use the Site. The Site is offered and available to users who are 13 years of age or older. By using the Site, you represent and warrant that you are of legal age to form a binding contract with us and meet all of the foregoing eligibility requirements. **If you do not meet all of these requirements, you must not access or use the Site.**
+Welcome to the https://cashraven.io/ website (the “Site”), which is owned and operated by Cash Raven, LLC (“Cash Raven” or “we” or “us”). By visiting or otherwise using any area of the Site, or downloading, installing, or using any Cash Raven mobile or desktop application (“Application”) with an authorized link to these Terms and Conditions of Use (the “Terms”), accessing or using any content, information, services, features or resources available or enabled via the Site or Application, you unconditionally agree to follow and be bound by these Terms. All information we collect on this Site and through the Application is subject to our Privacy Policy. By using the Site, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy. **If you do not agree with the Terms or the Privacy Policy, you must not access or use the Site**. Please read the Terms carefully before you start to use the Site. The Site is offered and available to users who are 13 years of age or older. By using the Site, you represent and warrant that you are of legal age to form a binding contract with us and meet all of the foregoing eligibility requirements. If you do not meet all of these requirements, you must not access or use the Site.
 
 ##### Intellectual Property and License
 

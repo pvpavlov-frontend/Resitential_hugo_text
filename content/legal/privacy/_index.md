@@ -3,7 +3,7 @@ layout = "residential_1"
 title = "page_1"
 +++
 
-### Cash Raven Privacy Policy
+### **Cash Raven Privacy Policy**{class="text-center" id=""}
 
 ##### Introduction
 

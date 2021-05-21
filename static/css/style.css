@@ -605,6 +605,14 @@ em {
 
 /* Default + custom lists. */
 
+ol {
+    list-style-type: lower-alpha;
+}
+
+ol ol {
+    list-style-type: lower-alpha;
+}
+
 /* ul,
 ol {
     margin: 0;
