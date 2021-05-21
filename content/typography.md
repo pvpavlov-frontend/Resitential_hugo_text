@@ -3,17 +3,17 @@ title = "Typography"
 layout = "typography"
 +++
 
-# Heading level 1
+# Heading 1
 
-## Heading level 2
+## Heading 2
 
-### Heading level 3
+### Heading 3
 
-#### Heading level 4
+#### Heading 4
 
-##### Heading level 5
+##### Heading 5
 
-###### Heading level 6
+###### Heading 6
 
 Paragraph: I really like using Markdown.
 
@@ -49,7 +49,3 @@ Background link:
 <div style="display: inline-block">
     <a class="link-background" href="#">Duck Duck Go</a>
 </div>
-
-<p class="c24">
-    <span class="c5 c14">Heading</span>
-</p>
