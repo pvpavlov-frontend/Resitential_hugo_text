@@ -605,9 +605,9 @@ em {
 
 /* Default + custom lists. */
 
-ol {
+/* ol {
     list-style-type: lower-alpha;
-}
+} */
 
 ol ol {
     list-style-type: lower-alpha;

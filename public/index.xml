@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://quizzical-chandrasekhar-a7017e.netlify.app/</link>
     <description>Recent content in Home on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://quizzical-chandrasekhar-a7017e.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Typography</title>
-      <link>http://example.org/typography/</link>
+      <link>https://quizzical-chandrasekhar-a7017e.netlify.app/typography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/typography/</guid>
+      <guid>https://quizzical-chandrasekhar-a7017e.netlify.app/typography/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph: I really like using Markdown.
  Blockquotes: Dorothy followed her through many of the beautiful rooms in her castle.
  Ordered Lists:
